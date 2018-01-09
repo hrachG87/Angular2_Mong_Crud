@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular2_Mongo_Crud", "Angular2_Mongo_Crud\Angular2_Mongo_Crud.csproj", "{05508993-FB92-42F3-AAA8-2C9077F8C171}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular2_Mongo_Crud.BLL", "Angular2_Mongo_Crud.BLL\Angular2_Mongo_Crud.BLL.csproj", "{565D369C-376D-494F-AF33-45B4461DF089}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{05508993-FB92-42F3-AAA8-2C9077F8C171}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05508993-FB92-42F3-AAA8-2C9077F8C171}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05508993-FB92-42F3-AAA8-2C9077F8C171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565D369C-376D-494F-AF33-45B4461DF089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565D369C-376D-494F-AF33-45B4461DF089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565D369C-376D-494F-AF33-45B4461DF089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565D369C-376D-494F-AF33-45B4461DF089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

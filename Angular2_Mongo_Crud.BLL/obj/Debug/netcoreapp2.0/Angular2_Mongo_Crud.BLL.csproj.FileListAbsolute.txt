@@ -1,0 +1,6 @@
+D:\Flex Software Corp\January_2018\Angular2_Mongo_Crud\Angular2_Mongo_Crud.BLL\bin\Debug\netcoreapp2.0\Angular2_Mongo_Crud.BLL.deps.json
+D:\Flex Software Corp\January_2018\Angular2_Mongo_Crud\Angular2_Mongo_Crud.BLL\bin\Debug\netcoreapp2.0\Angular2_Mongo_Crud.BLL.dll
+D:\Flex Software Corp\January_2018\Angular2_Mongo_Crud\Angular2_Mongo_Crud.BLL\obj\Debug\netcoreapp2.0\Angular2_Mongo_Crud.BLL.csprojResolveAssemblyReference.cache
+D:\Flex Software Corp\January_2018\Angular2_Mongo_Crud\Angular2_Mongo_Crud.BLL\obj\Debug\netcoreapp2.0\Angular2_Mongo_Crud.BLL.csproj.CoreCompileInputs.cache
+D:\Flex Software Corp\January_2018\Angular2_Mongo_Crud\Angular2_Mongo_Crud.BLL\obj\Debug\netcoreapp2.0\Angular2_Mongo_Crud.BLL.AssemblyInfoInputs.cache
+D:\Flex Software Corp\January_2018\Angular2_Mongo_Crud\Angular2_Mongo_Crud.BLL\obj\Debug\netcoreapp2.0\Angular2_Mongo_Crud.BLL.AssemblyInfo.cs
