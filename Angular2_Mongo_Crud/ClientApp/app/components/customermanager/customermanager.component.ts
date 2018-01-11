@@ -8,7 +8,7 @@ import { NgForm } from '@angular/forms';
 
 @Component({
     selector: 'customer-manager',
-    templateUrl: './customermanager.component',
+    templateUrl: './customermanager.component.html',
     styleUrls: ['./customermanager.component.less']
 })
 export class CustomerManagerComponent {

@@ -9,6 +9,10 @@ import { CustomerManagerComponent } from './components/customermanager/customerm
 import { CustomerService } from './components/customermanager/customermanager.service';
 import { SimpleNotificationsModule, NotificationsService } from 'angular2-notifications';
 
+import { GridModule } from '@progress/kendo-angular-grid';
+import { DialogModule } from '@progress/kendo-angular-dialog';
+import { ButtonsModule } from '@progress/kendo-angular-buttons';
+
 
 @NgModule({
     declarations: [
@@ -19,7 +23,10 @@ import { SimpleNotificationsModule, NotificationsService } from 'angular2-notifi
         CommonModule,
         HttpModule,
         FormsModule,
-        SimpleNotificationsModule
+        SimpleNotificationsModule,
+        GridModule,
+        DialogModule,
+        ButtonsModule
     ],
     providers: [CustomerService, NotificationsService]
 })
