@@ -103,4 +103,12 @@ export class CustomerManagerComponent {
         }
     }
 
+    private AddCustomer() {
+        this.Customer = new CustomerEntity();
+    }
+
+    private CloseCustomerEdit() {
+        this.Customer = null;
+    }
+
 }

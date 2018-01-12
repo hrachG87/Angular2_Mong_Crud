@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { RouterModule } from '@angular/router';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppComponent } from './components/app/app.component';
 import { CustomerManagerComponent } from './components/customermanager/customermanager.component';
@@ -23,6 +24,7 @@ import { ButtonsModule } from '@progress/kendo-angular-buttons';
         CommonModule,
         HttpModule,
         FormsModule,
+        BrowserAnimationsModule,
         SimpleNotificationsModule,
         GridModule,
         DialogModule,
